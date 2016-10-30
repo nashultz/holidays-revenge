@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Tragically Built Productions</title>
+        <title>Holiday's RevengeTragically Built Productions</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -24,18 +24,13 @@
         <nav>
             <ul class="nav nav-justified">
                 <li class="nav-item"><a class="nav-link active" href="#">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">About</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Latest News</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Games</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Developer Blogs</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
             </ul>
         </nav>
         <div class="jumbotron">
             <h1>
                 <img class="col-xs-6 col-xs-offset-3" src="../../themes/default/assets/img/holidaysrevengelogo.png"><div class="clearfix"></div>
             </h1>
-            <p>In Development!</p>
+            <p>Currently In Development!</p>
             <p>
                 <a class="btn btn-lg btn-primary" href="#" role="button">Learn More &raquo;</a>
             </p>
