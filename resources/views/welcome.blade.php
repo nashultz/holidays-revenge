@@ -15,7 +15,7 @@
 
 
             html, body {
-                background-color: #e3e3e3;
+                background-color: #3c3c3c;
                 color: #ffffff;
                 font-family: 'majestic', Helvetica, sans-serif;
                 font-weight: 100;
