@@ -15,7 +15,7 @@
 
 
             html, body {
-                background-color: #47a253;
+                background-color: #e3e3e3;
                 color: #ffffff;
                 font-family: 'majestic', Helvetica, sans-serif;
                 font-weight: 100;
@@ -79,7 +79,7 @@
         <div class="flex-center position-ref full-height">
             <div class="content">
                 <div class="title m-b-md">
-                    <img src="../../themes/default/assets/img/TragicallyBuiltLogo2.png" /><br><small>Coming Soon!</small>
+                    <img src="../../themes/default/assets/img/holidaysrevengelogo.png" /><br><small>Coming Soon!</small>
                 </div>
             </div>
         </div>
